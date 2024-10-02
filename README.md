@@ -1,0 +1,1 @@
+The Mathematica notebook wajnryb.nb contains the two computer-assisted calculations used in section 5 of the paper <a href="http://nsalter.science.nd.edu/research/monodromykernel.pdf">Topological monodromy kernels for fundamental groups of discriminant complements</a>.
